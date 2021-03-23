@@ -1,0 +1,25 @@
+{
+  "private": false,
+  "name": "jiji-store",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jguyet/jiji-store",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguyet/jiji-store.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jguyet/jiji-store/issues"
+  },
+  "author": "Guyet Jeremy <jguyet@linepicplus.com> (https://github.io/jguyet)",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "description": "Tiny javascript store.",
+  "main": "jiji-store.js",
+  "directories": {},
+  "keywords": [
+    "store",
+    "jiji-js"
+  ]
+}
